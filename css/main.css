@@ -30,7 +30,7 @@ h1, h2, h3 {
 /****************** HERO SECTION STYLE ******************/
 
 .hero {
-    background-image: url(/images/desktop/image-hero.jpg);
+    background-image: url(./images/desktop/image-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 95vh;
